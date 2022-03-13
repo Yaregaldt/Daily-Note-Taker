@@ -24,7 +24,7 @@ This app allow users to view, add, and delete notes.
 
 ## License
 
-This project is licensed under GNU
+This project is license under GNU
 
 ## Contributing
 
